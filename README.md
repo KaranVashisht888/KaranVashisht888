@@ -1,4 +1,4 @@
-# Hi, I'm Karan Vashisht 👋
+# Hi, I'm Karan Vashisht 😎
 
 CSE student at **Delhi Technological University (DTU)**. I build full-stack apps and security tools for AI systems, with a focus on problems that matter in India. I'm looking for software engineering roles and internships.
 
